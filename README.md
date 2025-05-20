@@ -47,10 +47,12 @@ titanic-survival-prediction/
 To run this project, follow these steps:
 
 1. **Download the Files**
+   
    - Download the **`Predicting Titanic Survivors Using Machine Learning .ipynb`** Jupyter notebook and the **`titanic3.xls`** dataset files from the repository.
    - Ensure both files are in the same directory, or update the path to the dataset in the notebook.
    - 
-2. **Set Up Your Environment**
+3. **Set Up Your Environment**
+   
     Before running the notebook, you need to set up your environment with the required dependencies. You can do this by creating a virtual environment and     
     installing the necessary libraries.
 
@@ -63,14 +65,16 @@ To run this project, follow these steps:
      ```bash
      pip install -r requirements.txt
      
-3. **Change the Dataset Path (If Necessary)**
+4. **Change the Dataset Path (If Necessary)**
+   
       - If your dataset (`titanic3.xls`) is located in a different directory, update the file path in the notebook:
      ```python
      df = pd.read_csv('path/to/titanic3.xls')
      ```
    - If both files are in the same directory, you don’t need to change anything.
 
-4. **Run the Jupyter Notebook**
+5. **Run the Jupyter Notebook**
+   
    - Open a terminal and navigate to the project directory.
    - Launch the Jupyter notebook:
      ```bash
@@ -78,7 +82,8 @@ To run this project, follow these steps:
      ```
    - This will open the notebook in your default browser, and you can start running the code cells.
    - 
-5. **Explore the Results**
+6. **Explore the Results**
+   
    - After running the cells, you'll see data analysis, feature engineering steps, model training, and performance evaluation.
    - You can interact with the results and experiment with hyperparameters or additional features to improve the model performance.
 
