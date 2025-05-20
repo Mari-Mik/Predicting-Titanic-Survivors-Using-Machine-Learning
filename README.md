@@ -73,7 +73,7 @@ To run this project, follow these steps:
    
       - If your dataset (`titanic3.xls`) is located in a different directory, update the file path in the notebook:
      ```python
-     df = pd.read_csv('path/to/titanic3.xls')
+     df = pd.read_excel('path/to/titanic3.xls')
      ```
    - If both files are in the same directory, you don’t need to change anything.
 
