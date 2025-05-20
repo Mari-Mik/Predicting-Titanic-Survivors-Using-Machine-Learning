@@ -38,12 +38,16 @@ This project predicts whether a passenger survived the Titanic disaster using su
 ---
 
 ## 📁 Project Structure
+
 titanic-survival-prediction/
 │
 ├── Predicting Titanic Survivors Using Machine Learning .ipynb # Full analysis and modeling in Google Colab
 ├── README.md # Project overview and summary
 
+---
+
 ## 🚀 Launch Instruction
+
 To run this project, follow these steps:
 
 1. **Download the Files**
@@ -87,7 +91,7 @@ To run this project, follow these steps:
    - After running the cells, you'll see data analysis, feature engineering steps, model training, and performance evaluation.
    - You can interact with the results and experiment with hyperparameters or additional features to improve the model performance.
 
-
+---
 
 ## 🙋‍♂️ About Me
 
